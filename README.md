@@ -1,7 +1,7 @@
 Installing and configuring Sublime on your home Macintosch computer
 =============================
 
-To use Sublime at home on your Mac, you will need to install Processing, Sublime Text 3, Pacage Control and the Processing plugin.
+To use Sublime at home on your Mac, you will need to install Processing, Sublime Text 3, Package Control and the Processing plugin.
 
 Download Sublime Text 3 and download and install Processing
 ---------------

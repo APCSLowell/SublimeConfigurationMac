@@ -47,5 +47,8 @@ Configure the Processing plugin for Sublime
 2. In Sublime choose *Tools | Build System | Processing*
 3. Choose *View | Syntax | Processing*  
 ![paste the code](SublimeConfig5.png)  
-Congratulations, you’ve installed Sublime Text 3 with Processing!
+
+Congratulations, you’ve installed Sublime Text 3 with Processing!  
+
+*Thanks to Andre Simmons for his help with these instructions!*
 

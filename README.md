@@ -3,10 +3,8 @@ Installing and configuring Sublime on your home Macintosch computer
 
 To use Sublime at home on your Mac, you will need to install Processing, Sublime Text 3, Package Control and the Processing plugin.
 
-Download Sublime Text 3 and download and install Processing
+Download and install Processing
 ---------------
-1. Go to [http://www.sublimetext.com/3](http://www.sublimetext.com/3) and download Sublime Text 3 for OSX. 
-2. Don't install Sublime just yet
 3. Download version 3 of [Processing](https://processing.org/download/?processing)
 4. Drag the Processing icon into your applications folder
 5. Once you have moved the Processing icon, double click on it in applications and it will open to a new project. Once in processing, go to *Tools* and click on *Install processing.java*.  
@@ -15,9 +13,10 @@ Download Sublime Text 3 and download and install Processing
 After clicking *yes*, input you computer login and processing will install.
 7. Now in order for processing to install correctly, restart your computer
 
-Install Sublime Text 3
+Download and install Sublime Text 3
 ------------------
-1. After you restart, Install Sublime Text 3 from downloads by double clicking on the `.dmg` file.
+1. After you restart, go to [http://www.sublimetext.com/3](http://www.sublimetext.com/3) and download Sublime Text 3 for OSX. 
+3. Install Sublime Text 3 from downloads by double clicking on the `.dmg` file.
 2. When promoted, agree to everything, and drag Sublime Text into your application folder in the opened window  
 ![drag Sublime Text into your application folder](SublimeConfig2.png)
 

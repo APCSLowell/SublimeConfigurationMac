@@ -5,13 +5,13 @@ To use Sublime at home on your Mac, you will need to install Processing, Sublime
 
 Download and install Processing
 ---------------
-3. Download version 3 of [Processing](https://processing.org/download/?processing)
-4. Drag the Processing icon into your applications folder
-5. Once you have moved the Processing icon, double click on it in applications and it will open to a new project. Once in processing, go to *Tools* and click on *Install processing.java*.  
+1. Download version 3 of [Processing](https://processing.org/download/?processing)
+2. Drag the Processing icon into your applications folder
+3. Once you have moved the Processing icon, double click on it in applications and it will open to a new project. Once in processing, go to *Tools* and click on *Install processing.java*.  
 ![Install processing.java](SublimeConfig1.png)
-6. When asked if you want to install processing for all users, you must click *yes* (processing will not work with sublime otherwise)
+4. When asked if you want to install processing for all users, you must click *yes* (processing will not work with sublime otherwise)
 After clicking *yes*, input you computer login and processing will install.
-7. Now in order for processing to install correctly, restart your computer
+5. Now in order for processing to install correctly, restart your computer
 
 Download and install Sublime Text 3
 ------------------
